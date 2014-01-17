@@ -10,7 +10,7 @@ You cannot build the container without *nginx.conf*
 
 
 ## Script Commands
-A number of script commands are included in the context to help you get things going
+A number of script commands are included in the context to help you get things going  
 ***All the scripts that come with this context rely on an *image_name* for the image that is to be built, run and started.
 You can specify an inline *image_name* or you can populate a file ***image*** with the image name that all the scripts should use***
 
